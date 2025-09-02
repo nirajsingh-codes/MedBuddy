@@ -1,6 +1,6 @@
-# MedBuddy App
+# MedAssist App
 
-MedBuddy is a mobile application designed to help users manage their meal schedules and medication reminders efficiently. This app provides features for meal time tracking, medication reminders (via manual entry and OCR scanning), and profile management, all integrated with Firebase for real-time data storage.
+MedAssist is a mobile application designed to help users manage their meal schedules and medication reminders efficiently. This app provides features for meal time tracking, medication reminders (via manual entry and OCR scanning), and profile management, all integrated with Firebase for real-time data storage.
 
 ---
 
